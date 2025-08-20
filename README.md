@@ -1,5 +1,5 @@
-# CodeAlpha_Hangman 
-This is a simple *text-based Hangman game* developed as part of my internship at *CodeAlpha*.
+
+This is a simple *text-based Hangman game* developed as part of my mini project.
 # Project Description
 The Hangman game allows a player to guess a hidden word one letter at a time. The player has a maximum of 6 incorrect guesses before the game ends
 # Key Features:
